@@ -21,7 +21,8 @@ chmod +x kde_plasma_cleanup.sh
 # Run it
 ./kde_plasma_cleanup.sh
 Follow the on-screen menu to choose your desired action.
-⚠️ Disclaimer
+
+# ⚠️Disclaimer 
 Use this script at your own risk.
 This script was developed with the assistance of AI tools. While it has been reviewed and tested, it may contain errors or behave unexpectedly on your specific system configuration. The author takes no responsibility for any data loss, system instability, broken configurations, or any other damage that may result from using this script.
 Before running the script, it is strongly recommended to:
